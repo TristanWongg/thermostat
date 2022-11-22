@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thermostat/static/css/main.a69ffcdb.css",
+    "main.js": "/thermostat/static/js/main.4c73bbf0.js",
+    "index.html": "/thermostat/index.html",
+    "main.a69ffcdb.css.map": "/thermostat/static/css/main.a69ffcdb.css.map",
+    "main.4c73bbf0.js.map": "/thermostat/static/js/main.4c73bbf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a69ffcdb.css",
+    "static/js/main.4c73bbf0.js"
+  ]
+}
